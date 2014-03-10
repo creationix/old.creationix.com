@@ -1,11 +1,100 @@
-<!doctype html>
-<html>
-<head>
-  <title>Creationix Innovations</title>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Creationix Innovations</title>
+
+    <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
-</head>
-<body>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-</body>
+
+    <!-- Custom styles for this template -->
+    <link href="jumbotron.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Creationix Innovations</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#consulting">Consulting</a></li>
+            <li><a href="#open-source">Open Source</a></li>
+            <li><a href="#products">Products</a></li>
+          </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Git Editor</h1>
+        <div class="col-sm-9">
+          <p>Out latest project is a git-based developer environment that anyone can pick up and use on any machine that has chrome installed.</p>
+          <p><a href="https://chrome.google.com/webstore/detail/tedit-development-environ/ooekdijbnbbjdfjocaiflnjgoohnblgf" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        </div>
+        <img class="col-sm-3" style="max-width: 196px" src="imgs/tedit.png">
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2 id="consulting">Consulting</h2>
+          <p>Let us help you craft quality software.  Creationix is open to consulatation work as well as providing contract development services.</p>
+          <p><a class="btn btn-default" href="mailto:tim@creationix.com" role="button">Contact Us &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2 id="open-source">Open Source</h2>
+          <p>Creationix believes fully that the best way to push technology forward for the benefit of mankind is to openly share solutions.</p>
+          <p>Most code can be found on github under the <a href="https://github.com/creationix">creationix</a> account.</p>
+          <p>Tim Caswell (creator of Creationix) has spoken at many conferences around the world and has published hundreds of open source modules (mostly to npm and github)</p>
+        </div>
+        <div class="col-md-4">
+          <h2 id="products">Products</h2>
+          <p>In order to better understand the needs of app developers, we have created several apps and published them to various markets.</p>
+          <ul>
+            <li><a href="https://chrome.google.com/webstore/detail/git-browser/cladogmhjppclibenkdbnjcogiaifnbd">Git Browser (Chrome App)</a> - A simple chrome app that allows for cloning git repos locally and browsing the contents offline.</li>
+            <li><a href="https://marketplace.firefox.com/app/git-browser">Git Browser (FirefoxOS)</a> - The same app, but built using FireFoxOS APIs so that it can run on FxOS smartphones.</li>
+            <li><a href="https://chrome.google.com/webstore/detail/conquest/egdpheeohmaknlkimmnenjgiggilejnn">Conquest (Chrome App)</a> - An in-progress remake of the classic Lords of Conquest game from Commodore64.</li>
+            <li><a href="https://chrome.google.com/webstore/detail/tedit-development-environ/ooekdijbnbbjdfjocaiflnjgoohnblgf">Tedit (Chrome App)</a> - A professional git-based development environment for ChromeOS.</li>
+            <li><a href="http://exploder.creationix.com">Exploder (Web App)</a> - A simple WebGL based game that tests platform graphics performance while keeping toddlers happy.</li>
+          </ul>
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Tim Caswell 2014</p>
+      </footer>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  </body>
 </html>
