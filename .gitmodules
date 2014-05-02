@@ -6,3 +6,7 @@
 	url = git@github.com:creationix/drawings.git
 	ref = refs/heads/master
 	path = drawings
+[submodule "3sharks.com"]
+	url = git@github.com:creationix/3sharks.com.git
+	ref = refs/heads/master
+	path = 3sharks.com
