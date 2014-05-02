@@ -10,3 +10,7 @@
 	url = git@github.com:creationix/3sharks.com.git
 	ref = refs/heads/master
 	path = 3sharks.com
+[submodule "panoramas"]
+	url = git@github.com:creationix/panoramas.git
+	ref = refs/heads/master
+	path = panoramas
