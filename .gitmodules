@@ -1,0 +1,4 @@
+[submodule "basic-games"]
+	url = git@github.com:creationix/basic-games.git
+	ref = refs/heads/master
+	path = basic-games
