@@ -2,3 +2,7 @@
 	url = git@github.com:creationix/basic-games.git
 	ref = refs/heads/master
 	path = basic-games
+[submodule "drawings"]
+	url = git@github.com:creationix/drawings.git
+	ref = refs/heads/master
+	path = drawings
