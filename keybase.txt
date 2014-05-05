@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/creationix
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://creationix.com
+  * I am creationix (https://keybase.io/creationix) on keybase.
+  * I have a public key with fingerprint 5586 E707 E6BA D3CA F9B2  0315 A79E F464 F27E D7D2
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "5586e707e6bad3caf9b20315a79ef464f27ed7d2",
+            "host": "keybase.io",
+            "key_id": "a79ef464f27ed7d2",
+            "uid": "8d17f547471cfc44cf53c5977d367b00",
+            "username": "creationix"
+        },
+        "service": {
+            "hostname": "creationix.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399318677,
+    "expire_in": 157680000,
+    "prev": "797d52e0e1ef9d5341791a32ef2b70501e09915b7a14503e91f582addf825ab7",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.14
+Comment: https://keybase.io/crypto
+
+yMHxAnicbZFbTBRXHMZnWVp1C4ZoQrRBQ8aYGLvZzO3M2Vl96DaUtIkvCtmAXDZz
+ObOM7M4sM8MK3XAplCDyUB8qTZq0JOVlbSgX04cGYiQiYkTDg7dIUwpECaYSi9ly
+ybqGM0Sf9LxMzvf/fd93Jv+b+W7C4xrbVXUmMPR8zDUzsd5IlEVWLidJyVCayUCS
+rEc7H1XTI8iMm5pukwESAD+PIAURL4kKK4uqIDEUSwMRCkjleE5lIFKgwpBess6w
+HAeOkUQL+TQDa/gS1hSsfoBv3Bn4FRqqgIMcpGVV5jhZBawMBAgVlocSRTmghUxd
+jCFMyyYSbc3QtSayxUtiPaHJWE/ulL/H+GQjhv1x07AN2YjiWZ1tx62A47Wb4w58
+HknhtzFhSdMV/PPYkUCmhRPIAI1J2dacXJoVBJb28xB6SdQU10wU1hwCQN5P4eP0
+oASOhAJUAIMoRCNVUADL0VCgRZZBKiNBClA0ogSBBhIUaQ5QLBJoFfgZUVFUPwNE
+CeJ+CzXoBhlg8TPFCI60tIgu2o0mIltuTFTnEi4P8fFHOc76CM+egndLrc3bTQwf
+SeRW/HA8U3uyJHrts996POj1rdufr1+ouL+cfTPwyWaH+49M0U/nCvbHrPnfsx1q
+avCb8a3VSnYg9ehl+nTIFe0/8FXNaNDj7lsuKazvjX2XyW6s/pufNzdyd/LrhTFv
+9cUvsklfp3upbWVyYbp4amnq72PlT2Pz/aOfBl+0pkOlfKUOzkbt3mjowcje0u52
+sbP7l/ayxa7IzxsLfcLslY6rygwYCv4lr5XkVt1J1fBFr6YTp35tC33ftfmtfam4
+ddz3Zbp7uDAYTocP32tOnXjW2vVket+hyX8eHmwgwv//+d+w+8ejW7Ncag0Mqovl
+xPUsqssJPe6Z663OLNVuA1HbHr8=
+=e7FB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/creationix
+
+==================================================================
